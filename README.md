@@ -1,5 +1,3 @@
-# PyTorch_Learning
-
 <p align="center"><img width="40%" src="imgs/pytorch-logo-dark.png" /></p>
 
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch).
