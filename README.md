@@ -20,19 +20,19 @@ Before starting this tutorial, it is recommended to finish [Official Pytorch Tut
 ### 1. Basis（基础）
     
 * Machine Learning Basis（机器学习基础）
-    - [doc/文档]()
+    - [doc(文档)]()
 * Deep Learning Basis（深度学习基础）
-    - [doc/文档]()
+    - [doc(文档)]()
 * PyTorch Basis（PyTorch 基础）
-    - [doc/文档]()
+    - [doc(文档)]()
 
 ### 2. Machine Learning（机器学习）
     
 * []()
 * []()
 * 2.3-Linear_Regression（线性回归模型）
-    - [doc/文档](tutorials/2_machine_learning/2.3_linear_regression.ipynb)
-    - [code/代码](codes/2_machine_learning/2.3_linear_regression.py)
+    - [doc(文档)](tutorials/2_machine_learning/2.3_linear_regression.ipynb)
+    - [code(代码)](codes/2_machine_learning/2.3_linear_regression.py)
 
 ### 3. Deep Learning（深度学习）
 ...
@@ -43,8 +43,8 @@ Before starting this tutorial, it is recommended to finish [Official Pytorch Tut
 
 ```bash
 $ git clone https://github.com/chenyaoysu/PyTorch_Learning.git
-$ cd PyTorch_Learning/src/PATH_TO_PROJECT
-$ python main.py
+$ cd PyTorch_Learning/codes/PATH_TO_PROJECT
+$ python x.x_xxxxxx.py
 ```
 
 ## Dependencies（依赖）
