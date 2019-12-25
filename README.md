@@ -1,5 +1,7 @@
 <p align="center"><img width="40%" src="imgs/pytorch-logo-dark.png" /></p>
 
+--------------------------------------------------------------------------------
+
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch).
 
 该代码存储库提供了教程代码，供深度学习研究人员学习 [PyTorch](https://github.com/pytorch/pytorch) 。
@@ -39,7 +41,7 @@ Before starting this tutorial, it is recommended to finish [Official Pytorch Tut
 
 ## Get Started（开始吧）
 
-```shell
+```bash
 $ git clone https://github.com/chenyaoysu/PyTorch_Learning.git
 $ cd PyTorch_Learning/src/PATH_TO_PROJECT
 $ python main.py
