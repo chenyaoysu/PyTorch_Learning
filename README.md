@@ -1,6 +1,6 @@
 # PyTorch_Learning
 
-![PyTorch_logo](./imgs/pytorch-logo-dark.png)
+<p align="center"><img width="40%" src="imgs/pytorch-logo-dark.png" /></p>
 
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch).
 
@@ -19,20 +19,20 @@ Before starting this tutorial, it is recommended to finish [Official Pytorch Tut
 
 ### 1. Basis（基础）
     
-    - Machine Learning Basis（机器学习基础）
-        - [doc/文档]()
-    - Deep Learning Basis（深度学习基础）
-        - [doc/文档]()
-    - PyTorch Basis（PyTorch 基础）
-        - [doc/文档]()
+* Machine Learning Basis（机器学习基础）
+    - [doc/文档]()
+* Deep Learning Basis（深度学习基础）
+    - [doc/文档]()
+* PyTorch Basis（PyTorch 基础）
+    - [doc/文档]()
 
 ### 2. Machine Learning（机器学习）
     
-    - []
-    - []
-    - 2.3-Linear_Regression（线性回归模型）
-        - [doc/文档](./src/3_linear_regression.ipynb)
-        - [code/代码](./src/3_linear_regression.py)
+* []()
+* []()
+* 2.3-Linear_Regression（线性回归模型）
+    - [doc/文档](src/3_linear_regression.ipynb)
+    - [code/代码](src/3_linear_regression.py)
 
 ### 3. Deep Learning（深度学习）
 ...
@@ -57,5 +57,5 @@ PyTorch 1.3.1+
 ## Author（作者）
 
 
-Chenyyx [@Chenyyx](https://github.com/chenyyx)
+* Chenyyx [@chenyyx](https://github.com/chenyyx)
 
