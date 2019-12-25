@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="imgs/pytorch-logo-dark.png" /></p>
+<p align="center"><img width="40%" src="logo/pytorch-logo-dark.png" /></p>
 
 --------------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Before starting this tutorial, it is recommended to finish [Official Pytorch Tut
 * []()
 * []()
 * 2.3-Linear_Regression（线性回归模型）
-    - [doc/文档](src/3_linear_regression.ipynb)
-    - [code/代码](src/3_linear_regression.py)
+    - [doc/文档](tutorials/2_machine_learning/2.3_linear_regression.ipynb)
+    - [code/代码](codes/2_machine_learning/2.3_linear_regression.py)
 
 ### 3. Deep Learning（深度学习）
 ...
